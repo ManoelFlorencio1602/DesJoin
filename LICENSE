@@ -1,0 +1,21 @@
+Copyright (c) 2026 DesJoin authors.
+All rights reserved except where otherwise stated.
+
+The original DesJoin source code, documentation, annotation guidelines,
+annotation decisions, and experimental materials are made publicly available
+solely for peer-review and artifact-evaluation purposes.
+
+No permission is granted to copy, modify, redistribute, publish, sublicense,
+or use the original DesJoin contributions for other purposes without prior
+written authorization from the copyright holders.
+
+This restriction does not apply to third-party or derivative components
+identified in DATA_PROVENANCE.md, Benchmarks/README.md, or LICENSES/.
+Those components remain subject to their respective licenses.
+
+In particular:
+
+- NextiaJD-derived materials are subject to the Apache License 2.0.
+- Spider dataset derivatives are subject to CC BY-SA 4.0.
+- No ownership is claimed over the underlying LakeBench datasets or
+  identifiers.
