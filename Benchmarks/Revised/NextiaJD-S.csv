@@ -1,6 +1,6 @@
 LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY,JOINABLE_LEVEL
-AboutIsis.csv,name,IsisFanboy.csv,name,AboutIsis.csv#IsisFanboy.csv#name#name,5
-AboutIsis.csv,username,IsisFanboy.csv,username,AboutIsis.csv#IsisFanboy.csv#username#username,5
+AboutIsis.csv,name,IsisFanboy.csv,name,AboutIsis.csv#name#IsisFanboy.csv#name,5
+AboutIsis.csv,username,IsisFanboy.csv,username,AboutIsis.csv#username#IsisFanboy.csv#username,5
 aac_intakes_outcomes.csv,age_upon_outcome,aac_outcomes.csv,age_upon_outcome,aac_intakes_outcomes.csv#age_upon_outcome#aac_outcomes.csv#age_upon_outcome,4
 aac_intakes_outcomes.csv,animal_id_outcome,aac_outcomes.csv,animal_id,aac_intakes_outcomes.csv#animal_id_outcome#aac_outcomes.csv#animal_id,5
 aac_intakes_outcomes.csv,outcome_subtype,aac_outcomes.csv,outcome_subtype,aac_intakes_outcomes.csv#outcome_subtype#aac_outcomes.csv#outcome_subtype,4

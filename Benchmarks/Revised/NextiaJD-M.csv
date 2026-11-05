@@ -81,6 +81,7 @@ Chicago_Crimes_2001_to_2004.csv,Primary Type,Chicago_Crimes_2012_to_2017.csv,Pri
 Chicago_Crimes_2001_to_2004.csv,Description,Chicago_Crimes_2012_to_2017.csv,Description,Chicago_Crimes_2001_to_2004.csv#Description#Chicago_Crimes_2012_to_2017.csv#Description,5
 Chicago_Crimes_2001_to_2004.csv,Location Description,Chicago_Crimes_2012_to_2017.csv,Location Description,Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2012_to_2017.csv#Location Description,5
 Chicago_Crimes_2001_to_2004.csv,FBI Code,Chicago_Crimes_2012_to_2017.csv,FBI Code,Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2012_to_2017.csv#FBI Code,5
+Chicago_Crimes_2001_to_2004.csv,ID,Chicago_Crimes_2005_to_2007.csv,ID,Chicago_Crimes_2001_to_2004.csv#ID#Chicago_Crimes_2005_to_2007.csv#ID,5
 Chicago_Crimes_2001_to_2004.csv,Block,Chicago_Crimes_2005_to_2007.csv,Block,Chicago_Crimes_2001_to_2004.csv#Block#Chicago_Crimes_2005_to_2007.csv#Block,5
 Chicago_Crimes_2001_to_2004.csv,IUCR,Chicago_Crimes_2005_to_2007.csv,IUCR,Chicago_Crimes_2001_to_2004.csv#IUCR#Chicago_Crimes_2005_to_2007.csv#IUCR,5
 Chicago_Crimes_2001_to_2004.csv,Primary Type,Chicago_Crimes_2005_to_2007.csv,Primary Type,Chicago_Crimes_2001_to_2004.csv#Primary Type#Chicago_Crimes_2005_to_2007.csv#Primary Type,5
@@ -115,10 +116,10 @@ Chicago_Crimes_2001_to_2004.csv,FBI Code,Chicago_Crimes_2005_to_2007.csv,FBI Cod
 2020-04-25 Coronavirus Tweets.csv,screen_name,2020-04-26 Coronavirus Tweets.csv,screen_name,2020-04-25 Coronavirus Tweets.csv#screen_name#2020-04-26 Coronavirus Tweets.csv#screen_name,5
 2020-04-25 Coronavirus Tweets.csv,screen_name,2020-04-27 Coronavirus Tweets.csv,screen_name,2020-04-25 Coronavirus Tweets.csv#screen_name#2020-04-27 Coronavirus Tweets.csv#screen_name,5
 2020-04-25 Coronavirus Tweets.csv,screen_name,2020-04-29 Coronavirus Tweets.csv,screen_name,2020-04-25 Coronavirus Tweets.csv#screen_name#2020-04-29 Coronavirus Tweets.csv#screen_name,5
-2020-04-26 Coronavirus Tweets.csv,screen_name,2020-04-27 Coronavirus Tweets.csv,screen_name,2020-04-26 Coronavirus Tweets.csv#screen_name#2020-04-29 Coronavirus Tweets.csv#screen_name,5
+2020-04-26 Coronavirus Tweets.csv,screen_name,2020-04-27 Coronavirus Tweets.csv,screen_name,2020-04-26 Coronavirus Tweets.csv#screen_name#2020-04-27 Coronavirus Tweets.csv#screen_name,5
 2020-04-26 Coronavirus Tweets.csv,screen_name,2020-04-29 Coronavirus Tweets.csv,screen_name,2020-04-26 Coronavirus Tweets.csv#screen_name#2020-04-29 Coronavirus Tweets.csv#screen_name,5
 2020-04-27 Coronavirus Tweets.csv,screen_name,2020-04-29 Coronavirus Tweets.csv,screen_name,2020-04-27 Coronavirus Tweets.csv#screen_name#2020-04-29 Coronavirus Tweets.csv#screen_name,5
-020-04-16 Coronavirus Tweets.csv,country_code,2020-04-27 Coronavirus Tweets.csv,country_code,2020-04-16 Coronavirus Tweets.csv#country_code#2020-04-27 Coronavirus Tweets.csv#country_code,5
+2020-04-16 Coronavirus Tweets.csv,country_code,2020-04-27 Coronavirus Tweets.csv,country_code,2020-04-16 Coronavirus Tweets.csv#country_code#2020-04-27 Coronavirus Tweets.csv#country_code,5
 2020-04-16 Coronavirus Tweets.csv,place_type,2020-04-27 Coronavirus Tweets.csv,place_type,2020-04-16 Coronavirus Tweets.csv#place_type#2020-04-27 Coronavirus Tweets.csv#place_type,5
 2020-04-16 Coronavirus Tweets.csv,lang,2020-04-27 Coronavirus Tweets.csv,lang,2020-04-16 Coronavirus Tweets.csv#lang#2020-04-27 Coronavirus Tweets.csv#lang,4
 2020-04-26 Coronavirus Tweets.csv,source,2020-04-29 Coronavirus Tweets.csv,source,2020-04-26 Coronavirus Tweets.csv#source#2020-04-29 Coronavirus Tweets.csv#source,4
@@ -129,15 +130,14 @@ Chicago_Crimes_2001_to_2004.csv,FBI Code,Chicago_Crimes_2005_to_2007.csv,FBI Cod
 2020-04-25 Coronavirus Tweets.csv,country_code,2020-04-29 Coronavirus Tweets.csv,country_code,2020-04-25 Coronavirus Tweets.csv#country_code#2020-04-29 Coronavirus Tweets.csv#country_code,5
 2020-04-25 Coronavirus Tweets.csv,place_type,2020-04-29 Coronavirus Tweets.csv,place_type,2020-04-25 Coronavirus Tweets.csv#place_type#2020-04-29 Coronavirus Tweets.csv#place_type,5
 2020-04-25 Coronavirus Tweets.csv,lang,2020-04-29 Coronavirus Tweets.csv,lang,2020-04-25 Coronavirus Tweets.csv#lang#2020-04-29 Coronavirus Tweets.csv#lang,4
-2020-04-16 Coronavirus Tweets.csv,country_code,2020-04-27 Coronavirus Tweets.csv,country_code,2020-04-16 Coronavirus Tweets.csv#country_code#2020-04-27 Coronavirus Tweets.csv#country_code,5
 2020-04-16 Coronavirus Tweets.csv,country_code,2020-04-29 Coronavirus Tweets.csv,country_code,2020-04-16 Coronavirus Tweets.csv#country_code#2020-04-29 Coronavirus Tweets.csv#country_code,5
 2020-04-16 Coronavirus Tweets.csv,place_type,2020-04-29 Coronavirus Tweets.csv,place_type,2020-04-16 Coronavirus Tweets.csv#place_type#2020-04-29 Coronavirus Tweets.csv#place_type,5
 2020-04-16 Coronavirus Tweets.csv,lang,2020-04-29 Coronavirus Tweets.csv,lang,2020-04-16 Coronavirus Tweets.csv#lang#2020-04-29 Coronavirus Tweets.csv#lang,4
-2020-04-16 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-16 Coronavirus Tweets.csv#covid-19_tw.csv#user_id#User - ID,5
-2020-04-25 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-25 Coronavirus Tweets.csv#covid-19_tw.csv#user_id#User - ID,5
-2020-04-26 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-26 Coronavirus Tweets.csv#covid-19_tw.csv#user_id#User - ID,5
-2020-04-27 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-27 Coronavirus Tweets.csv#covid-19_tw.csv#user_id#User - ID,5
-2020-04-29 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-29 Coronavirus Tweets.csv#covid-19_tw.csv#user_id#User - ID,5
+2020-04-16 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-16 Coronavirus Tweets.csv#user_id#covid-19_tw.csv#User - ID,5
+2020-04-25 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-25 Coronavirus Tweets.csv#user_id#covid-19_tw.csv#User - ID,5
+2020-04-26 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-26 Coronavirus Tweets.csv#user_id#covid-19_tw.csv#User - ID,5
+2020-04-27 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-27 Coronavirus Tweets.csv#user_id#covid-19_tw.csv#User - ID,5
+2020-04-29 Coronavirus Tweets.csv,user_id,covid-19_tw.csv,User - ID,2020-04-29 Coronavirus Tweets.csv#user_id#covid-19_tw.csv#User - ID,5
 business-licences.csv,ExpiredDate,reviews_summary.csv,date,business-licences.csv#ExpiredDate#reviews_summary.csv#date,1
 business-licences.csv,ExpiredDate,reviews_detailed.csv,date,business-licences.csv#ExpiredDate#reviews_detailed.csv#date,1
 artists.csv,country_mb,us_perm_visas.csv,country_of_citizenship,artists.csv#country_mb#us_perm_visas.csv#country_of_citizenship,5
@@ -326,13 +326,6 @@ Chicago_Crimes_2001_to_2004.csv,Description,Chicago_Crimes_2008_to_2011.csv,Desc
 Chicago_Crimes_2001_to_2004.csv,Location Description,Chicago_Crimes_2008_to_2011.csv,Location Description,Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2008_to_2011.csv#Location Description,5
 Chicago_Crimes_2001_to_2004.csv,FBI Code,Chicago_Crimes_2008_to_2011.csv,FBI Code,Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2008_to_2011.csv#FBI Code,5
 previous_application.csv,FLAG_LAST_APPL_PER_CONTRACT,yellow_tripdata_2019-01.csv,store_and_fwd_flag,previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#yellow_tripdata_2019-01.csv#store_and_fwd_flag,1
-Chicago_Crimes_2001_to_2004.csv,ID,Chicago_Crimes_2005_to_2007.csv,ID,Chicago_Crimes_2001_to_2004.csv#ID#Chicago_Crimes_2005_to_2007.csv#ID,5
-Chicago_Crimes_2001_to_2004.csv,Block,Chicago_Crimes_2005_to_2007.csv,Block,Chicago_Crimes_2001_to_2004.csv#Block#Chicago_Crimes_2005_to_2007.csv#Block,5
-Chicago_Crimes_2001_to_2004.csv,IUCR,Chicago_Crimes_2005_to_2007.csv,IUCR,Chicago_Crimes_2001_to_2004.csv#IUCR#Chicago_Crimes_2005_to_2007.csv#IUCR,5
-Chicago_Crimes_2001_to_2004.csv,Primary Type,Chicago_Crimes_2005_to_2007.csv,Primary Type,Chicago_Crimes_2001_to_2004.csv#Primary Type#Chicago_Crimes_2005_to_2007.csv#Primary Type,5
-Chicago_Crimes_2001_to_2004.csv,Description,Chicago_Crimes_2005_to_2007.csv,Description,Chicago_Crimes_2001_to_2004.csv#Description#Chicago_Crimes_2005_to_2007.csv#Description,5
-Chicago_Crimes_2001_to_2004.csv,Location Description,Chicago_Crimes_2005_to_2007.csv,Location Description,Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2005_to_2007.csv#Location Description,5
-Chicago_Crimes_2001_to_2004.csv,FBI Code,Chicago_Crimes_2005_to_2007.csv,FBI Code,Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2005_to_2007.csv#FBI Code,5
 COTAHIST_A2009_to_A2019.csv,DATPRE,reviews_detailed.csv,date,COTAHIST_A2009_to_A2019.csv#DATPRE#reviews_detailed.csv#date,3
 Consumer_Complaints.csv,State,eo3.csv,STATE,Consumer_Complaints.csv#State#eo3.csv#STATE,5
 reviews_detailed.csv,date,reviews_summary.csv,date,reviews_detailed.csv#date#reviews_summary.csv#date,5
@@ -349,4 +342,4 @@ eo2.csv,STREET,eo3.csv,STREET,eo2.csv#STREET#eo3.csv#STREET,5
 eo2.csv,STATE,eo3.csv,STATE,eo2.csv#STATE#eo3.csv#STATE,5
 eo2.csv,GROUP,eo3.csv,GROUP,eo2.csv#GROUP#eo3.csv#GROUP,5
 eo2.csv,ORGANIZATION,eo3.csv,ORGANIZATION,eo2.csv#ORGANIZATION#eo3.csv#ORGANIZATION,5
-comments.csv,author,comments_positive.csv,author,comments.csv#comments_positive.csv#author#author,4
+comments.csv,author,comments_positive.csv,author,comments.csv#author#comments_positive.csv#author,4

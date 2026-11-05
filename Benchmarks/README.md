@@ -14,8 +14,12 @@ The files under `Benchmarks/Revised/` contain modifications and annotations
 produced by the DesJoin authors. These files are derivative works and retain
 the applicable Apache License 2.0 conditions.
 
-Changes made by the DesJoin authors are documented in this repository and in
-the accompanying paper.
+The files related NextiaJD under `Benchmarks/Original/` are the original benchmark CSVs
+published by the official NextiaJD GitHub repository and the one related to Spider is a set of table/column pairs derived from the Foreign Keys clauses contained in the schema definition from the Spider databases. The files under `Benchmarks/Revised/` are separately curated pair lists, rather than
+row-for-row revisions of those original CSVs.
+
+The revised NextiaJD and OpenData files contain manual review, corrections, and joinability
+labels.
 
 ## Spider
 
@@ -52,9 +56,10 @@ Consequently, this repository does not redistribute the original OpenData or
 WebTable benchmark files.
 
 The files under `Benchmarks/Revised/` contain annotation decisions produced
-by the DesJoin authors. They record selected table-column pairs and, where
-applicable, joinability assessments created during the DesJoin review
-process. They do not contain the underlying table contents.
+by the DesJoin authors. We record selected table-column pairs and
+joinability assessments created during the DesJoin review process. Every pair
+in `WebTable.csv` is positive: this is the final set after expansion of
+non-transitive semantic joins. These files do not contain the underlying table contents.
 
 References to table names, column names, and source identifiers are retained
 solely to identify the objects evaluated during the annotation process.

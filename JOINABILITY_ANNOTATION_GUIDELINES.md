@@ -2,7 +2,7 @@
 
 ## 1. Objective
 
-The objective of the annotation is to determine the **semantic relationship between a pair of columns from two tables** and classify the pair according to categories **C1–C6**.
+The objective of the annotation is to determine the **semantic relationship between a pair of columns from two tables** and classify the pair according to categories **C1–C5**.
 
 Annotators should consider:
 
@@ -192,7 +192,7 @@ Use C5 when:
 ### Examples
 
 ```text
-mapcountry × country_of_citizenship
+glassdoor.mapcountry × us_perm_visas.country_of_citzenship
 ```
 
 Both columns represent the country associated with a person/company context and their domains support a meaningful join.
@@ -200,7 +200,7 @@ Both columns represent the country associated with a person/company context and 
 Another example:
 
 ```text
-Province × Canada
+CAN_CSV0000000000001370.Province/Canada × CAN_CSV0000000000002115__26.Province/Canada
 ```
 
 where the column represents the province in which an organization is located.

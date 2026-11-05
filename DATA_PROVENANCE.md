@@ -10,20 +10,25 @@ not claims that the CSVs were obtained from those revisions.
 ## NextiaJD-S and NextiaJD-M
 
 - Source: https://github.com/dtak-upc/NextiaJD/tree/master/experiments
-- Source version used: Not recorded in the supplied checkout.
-- Source revision inspected for provenance: `14e8a8611455785c4abeb87d5d9b7d1a2f480346` (commit dated 2022-06-15, touching `experiments`; inspected 2026-10-27).
-- Date obtained: Not recorded in the supplied checkout.
+- Source version used: The original files in this repository are
+  the original benchmark CSVs published in the official NextiaJD
+  GitHub repository.
+- Date obtained:
+  - NextiaJD-S: 2025-04-25.
+  - NextiaJD-M: 2025-05-12.
 - Source license: Apache License 2.0.
 - DesJoin files:
   - `Benchmarks/Original/NextiaJD-S.csv`
   - `Benchmarks/Original/NextiaJD-M.csv`
   - `Benchmarks/Revised/NextiaJD-S.csv`
   - `Benchmarks/Revised/NextiaJD-M.csv`
-- Transformation: Original and revised benchmark CSVs are both retained. The
-  revised files contain manual review, corrections, and joinability
-  annotations; they are modified derivative works.
-- DesJoin contribution: Manual review, corrections, and joinability
-  annotations in the revised files.
+- Transformation: The `Original/` files are the original CSVs from the
+  official NextiaJD GitHub repository; The `Revised/` files are separate, manually
+  reviewed pair lists with corrections and joinability annotations. They are
+  modified derivatives and are not row-for-row transformations of the current
+  original CSVs.
+- DesJoin contributions: The revised files contain manual review,
+  corrections, and joinability labels.
 
 ## Spider
 
@@ -56,9 +61,11 @@ not claims that the CSVs were obtained from those revisions.
 - Original LakeBench benchmark files redistributed: No. The original
   `OpenData.csv` and `WebTable.csv` files are not included.
 - Transformation: DesJoin selection, revision, and annotation of
-  table-column pairs, including joinability assessments where applicable.
-  The revised files contain references and annotation decisions, not the
-  underlying table contents.
+  table-column pairs. OpenData includes joinability assessments. WebTable
+  contains positive pairs only: it is the final set after expansion of
+  non-transitive semantic joins, so no label column is included. The revised
+  files contain references and annotation decisions, not the underlying
+  table contents.
 - DesJoin contribution: Selection and review of table-column pairs and
   annotation decisions. No ownership is claimed over the underlying
   LakeBench data or identifiers.
