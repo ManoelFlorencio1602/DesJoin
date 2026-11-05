@@ -1,11 +1,28 @@
 # Data provenance
 
-Dates and source revisions below distinguish what can be verified from this
-checkout from the versions originally used to create its CSV files. The
-supplied checkout has no Git commits or acquisition records, so the original
-download dates and exact source revisions for the CSVs are not recorded.
-Repository revisions identified as "inspected" are provenance references,
-not claims that the CSVs were obtained from those revisions.
+This document describes the provenance of the datasets used in the DesJoin
+experiments. It records the original data sources, versions and acquisition
+dates, applicable licenses, transformations, and contributions made during
+the preparation of the experimental benchmarks.
+
+The document covers the following datasets:
+
+- **NextiaJD-S and NextiaJD-M:** Original benchmarks and manually reviewed
+  revised versions.
+- **Spider:** Original benchmark converted to the format required by DesJoin.
+- **OpenData and WebTable:** Selected and revised table-column pairs derived
+  from the LakeBench project.
+
+For each dataset, we distinguish between the original source material and
+the modifications introduced by DesJoin. These modifications may include
+format conversion, selection, manual review, corrections, and joinability
+annotations.
+
+The provenance information is provided to support transparency,
+reproducibility, and appropriate attribution. Redistribution and licensing
+conditions are documented individually for each dataset. DesJoin contributions
+should not be interpreted as ownership of the underlying datasets or their
+original contents.
 
 ## NextiaJD-S and NextiaJD-M
 
@@ -36,8 +53,7 @@ not claims that the CSVs were obtained from those revisions.
 - Additional sources:
   - https://github.com/taoyds/spider
   - https://huggingface.co/datasets/xlangai/spider
-- Source version used: Not recorded in the supplied checkout.
-- Date obtained: Not recorded in the supplied checkout.
+- Date obtained: 16/06/2025.
 - Dataset license: Creative Commons Attribution-ShareAlike 4.0 International
   (CC BY-SA 4.0), as identified by the XLANG dataset source.
 - DesJoin file: `Benchmarks/Original/Spider.csv`.
@@ -50,9 +66,12 @@ not claims that the CSVs were obtained from those revisions.
 ## OpenData and WebTable
 
 - Source project: https://github.com/BIT-DataLab/LakeBench
-- Source version used: Not recorded in the supplied checkout.
-- Source revision inspected for provenance: `8317cd57d25d2b533b9180fd6656d676144d4690` (repository HEAD dated 2025-05-25, inspected 2026-10-27).
-- Date obtained: Not recorded in the supplied checkout.
+- Source version used: The original files in this repository are
+  the original benchmark CSVs published in the official LakeBench
+  GitHub repository.
+- Date obtained:
+  - OpenData: 22/11/2025.
+  - WewbTable: 29/05/2025.
 - Source license: No explicit license identified in the LakeBench repository
   revision inspected.
 - DesJoin files:
