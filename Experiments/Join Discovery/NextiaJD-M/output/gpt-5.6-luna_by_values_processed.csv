@@ -1,0 +1,431 @@
+ds_name,ds_name_2,left_column,right_column
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,created_at,created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,source,source
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,verified,verified
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,lang,lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,created_at,created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,source,source
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,verified,verified
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,lang,lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,created_at,created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,source,source
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,verified,verified
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,lang,lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,created_at,created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,source,source
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,verified,verified
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,lang,lang
+2020-04-16 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,user_id,User - ID
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,created_at,Time
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,text,Tweet
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,is_retweet,Is Retweet
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,country_code,Country
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,screen_name,User - Name
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,followers_count,User_Followers
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,friends_count,User_Friends
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,favourites_count,User_Favourites
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,account_created_at,User_Creation time
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,lang,User_Language
+2020-04-16 Coronavirus Tweets.csv,train-balanced-sarcasm.csv,screen_name,author
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,created_at,created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,text,text
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,source,source
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,verified,verified
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,lang,lang
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,created_at,created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,text,text
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,source,source
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,verified,verified
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,lang,lang
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,created_at,created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,text,text
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,source,source
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,verified,verified
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,lang,lang
+2020-04-25 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-25 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-25 Coronavirus Tweets.csv,examiner-date-tokens.csv,created_at,publish_date
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,created_at,created_at
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,text,text
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,source,source
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,verified,verified
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,lang,lang
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,created_at,created_at
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,text,text
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,source,source
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,verified,verified
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,lang,lang
+2020-04-26 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-26 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,created_at,created_at
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,text,text
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,source,source
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_status_id,reply_to_status_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_user_id,reply_to_user_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,reply_to_screen_name,reply_to_screen_name
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_quote,is_quote
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,is_retweet,is_retweet
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,favourites_count,favourites_count
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,retweet_count,retweet_count
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_full_name,place_full_name
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,followers_count,followers_count
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,friends_count,friends_count
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_lang,account_lang
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,account_created_at,account_created_at
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,verified,verified
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,lang,lang
+2020-04-27 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-29 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-29 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-29 Coronavirus Tweets.csv,examiner-date-tokens.csv,created_at,publish_date
+az.csv,business-licences.csv,STREET,Street
+Chicago_Crimes_2001_to_2004.csv,az.csv,Longitude,LON
+Chicago_Crimes_2001_to_2004.csv,az.csv,Latitude,LAT
+az.csv,eo2.csv,STREET,STREET
+az.csv,eo2.csv,CITY,CITY
+az.csv,eo2.csv,POSTCODE,ZIP
+az.csv,eo3.csv,POSTCODE,ZIP
+az.csv,hail-2015.csv,LON,LON
+az.csv,hail-2015.csv,LAT,LAT
+az.csv,property-tax-report.csv,NUMBER,FROM_CIVIC_NUMBER
+az.csv,property-tax-report.csv,STREET,STREET_NAME
+az.csv,property-tax-report.csv,POSTCODE,PROPERTY_POSTAL_CODE
+business-licences.csv,property-tax-report.csv,Street,STREET_NAME
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Case Number,Case Number
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Date,Date
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Arrest,Arrest
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Domestic,Domestic
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Beat,Beat
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,District,District
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Ward,Ward
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Community Area,Community Area
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Year,Year
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Updated On,Updated On
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Latitude,Latitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Longitude,Longitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Location,Location
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Case Number,Case Number
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Date,Date
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Arrest,Arrest
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Domestic,Domestic
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Beat,Beat
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,District,District
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Ward,Ward
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Community Area,Community Area
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Year,Year
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Updated On,Updated On
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Latitude,Latitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Longitude,Longitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Location,Location
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Case Number,Case Number
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Date,Date
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Arrest,Arrest
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Domestic,Domestic
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Beat,Beat
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,District,District
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Ward,Ward
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Community Area,Community Area
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Year,Year
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Updated On,Updated On
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Latitude,Latitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Longitude,Longitude
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Location,Location
+Chicago_Crimes_2001_to_2004.csv,homicide_reports.csv,Year,Year
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,ID,ID
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Case Number,Case Number
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Date,Date
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Block,Block
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,IUCR,IUCR
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Primary Type,Primary Type
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Description,Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Location Description,Location Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Arrest,Arrest
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Domestic,Domestic
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Beat,Beat
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,District,District
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Ward,Ward
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Community Area,Community Area
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,FBI Code,FBI Code
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Year,Year
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Updated On,Updated On
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Latitude,Latitude
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Longitude,Longitude
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Location,Location
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Case Number,Case Number
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Date,Date
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Arrest,Arrest
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Domestic,Domestic
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Beat,Beat
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,District,District
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Ward,Ward
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Community Area,Community Area
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Year,Year
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Updated On,Updated On
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Latitude,Latitude
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Longitude,Longitude
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Location,Location
+Chicago_Crimes_2005_to_2007.csv,homicide_reports.csv,Year,Year
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Case Number,Case Number
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Date,Date
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Arrest,Arrest
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Domestic,Domestic
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Beat,Beat
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,District,District
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Ward,Ward
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Community Area,Community Area
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,X Coordinate,X Coordinate
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Y Coordinate,Y Coordinate
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Year,Year
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Updated On,Updated On
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Latitude,Latitude
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Longitude,Longitude
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Location,Location
+Chicago_Crimes_2008_to_2011.csv,homicide_reports.csv,Year,Year
+Chicago_Crimes_2012_to_2017.csv,homicide_reports.csv,Year,Year
+comments.csv,comments_positive.csv,author,author
+comments.csv,covid-19_tw.csv,content,Tweet
+comments.csv,examiner-date-text.csv,date,publish_date
+comments.csv,jigsaw-unintended-bias-train_it_clean.csv,content,comment_text
+comments.csv,train-balanced-sarcasm.csv,content,comment
+comments_positive.csv,jigsaw-unintended-bias-train_it_clean.csv,id,id
+comments_positive.csv,train-balanced-sarcasm.csv,text,comment
+comments_positive.csv,train-balanced-sarcasm.csv,parent_text,parent_comment
+comments_positive.csv,train-balanced-sarcasm.csv,author,author
+comments_positive.csv,train-balanced-sarcasm.csv,score,score
+comments_positive.csv,train-balanced-sarcasm.csv,ups,ups
+covid-19_tw.csv,jigsaw-unintended-bias-train_it_clean.csv,Tweet,comment_text
+covid-19_tw.csv,news-week-17aug24.csv,Time,publish_time
+eo2.csv,eo3.csv,EIN,EIN
+examiner-date-text.csv,examiner-date-tokens.csv,publish_date,publish_date
+examiner-date-text.csv,jigsaw-unintended-bias-train_it_clean.csv,publish_date,created_date
+examiner-date-text.csv,news-week-17aug24.csv,publish_date,publish_time
+examiner-date-text.csv,news-week-17aug24.csv,headline_text,headline_text
+examiner-date-text.csv,news-week-18aug24.csv,headline_text,headline_text
+examiner-date-tokens.csv,news-week-17aug24.csv,publish_date,publish_time
+examiner-date-tokens.csv,news-week-17aug24.csv,headline_tokens,headline_text
+examiner-date-tokens.csv,news-week-18aug24.csv,publish_date,publish_time
+examiner-date-tokens.csv,news-week-18aug24.csv,headline_tokens,headline_text
+glassdoor.csv,glassdoor_photos.csv,photos,photos_val_photoLink
+glassdoor.csv,us_perm_visas.csv,headeremployerName,employer_name
+hail-2015.csv,saudi-hourly-weather-data.csv,LON,longitude
+hail-2015.csv,saudi-hourly-weather-data.csv,LAT,latitude
+jigsaw-unintended-bias-train_it_clean.csv,train-balanced-sarcasm.csv,comment_text,comment
+news-week-17aug24.csv,news-week-18aug24.csv,feed_code,feed_code
+otp.csv,trainView.csv,train_id,train_id
+otp.csv,trainView.csv,next_station,next_station
+otp.csv,trainView.csv,date,date
+reviews_detailed.csv,reviews_summary.csv,listing_id,listing_id
+reviews_detailed.csv,reviews_summary.csv,id,id
+reviews_detailed.csv,reviews_summary.csv,date,date
+reviews_detailed.csv,reviews_summary.csv,reviewer_id,reviewer_id
+reviews_detailed.csv,reviews_summary.csv,reviewer_name,reviewer_name
+reviews_detailed.csv,reviews_summary.csv,comments,comments

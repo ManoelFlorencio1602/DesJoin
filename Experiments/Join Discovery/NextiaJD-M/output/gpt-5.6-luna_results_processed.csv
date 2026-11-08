@@ -1,0 +1,186 @@
+ds_name,ds_name_2,left_column,right_column
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-25 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-16 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-16 Coronavirus Tweets.csv,comments.csv,status_id,post_id
+2020-04-16 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-16 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-16 Coronavirus Tweets.csv,examiner-date-text.csv,created_at,publish_date
+2020-04-16 Coronavirus Tweets.csv,examiner-date-tokens.csv,created_at,publish_date
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-26 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-25 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-25 Coronavirus Tweets.csv,comments.csv,status_id,post_id
+2020-04-25 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-25 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-25 Coronavirus Tweets.csv,train-balanced-sarcasm.csv,screen_name,author
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,status_id,status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,country_code,country_code
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,place_type,place_type
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,user_id,user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-27 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-26 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-26 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-26 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-26 Coronavirus Tweets.csv,examiner-date-text.csv,created_at,publish_date
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,status_id,status_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,country_code,country_code
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,place_type,place_type
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,user_id,user_id
+2020-04-27 Coronavirus Tweets.csv,2020-04-29 Coronavirus Tweets.csv,screen_name,screen_name
+2020-04-27 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-27 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-27 Coronavirus Tweets.csv,examiner-date-text.csv,created_at,publish_date
+2020-04-29 Coronavirus Tweets.csv,comments.csv,status_id,post_id
+2020-04-29 Coronavirus Tweets.csv,comments_positive.csv,text,text
+2020-04-29 Coronavirus Tweets.csv,covid-19_tw.csv,status_id,Tweet ID
+2020-04-29 Coronavirus Tweets.csv,examiner-date-text.csv,created_at,publish_date
+2020-04-29 Coronavirus Tweets.csv,news-week-18aug24.csv,created_at,publish_time
+2020-04-29 Coronavirus Tweets.csv,train-balanced-sarcasm.csv,screen_name,author
+az.csv,business-licences.csv,POSTCODE,PostalCode
+Chicago_Crimes_2001_to_2004.csv,az.csv,Longitude,LON
+Chicago_Crimes_2001_to_2004.csv,az.csv,Latitude,LAT
+Chicago_Crimes_2005_to_2007.csv,az.csv,Longitude,LON
+Chicago_Crimes_2005_to_2007.csv,az.csv,Latitude,LAT
+Chicago_Crimes_2008_to_2011.csv,az.csv,Longitude,LON
+Chicago_Crimes_2008_to_2011.csv,az.csv,Latitude,LAT
+Chicago_Crimes_2012_to_2017.csv,az.csv,Longitude,LON
+Chicago_Crimes_2012_to_2017.csv,az.csv,Latitude,LAT
+Consumer_Complaints.csv,az.csv,ZIP code,POSTCODE
+az.csv,eo3.csv,POSTCODE,ZIP
+az.csv,glassdoor.csv,POSTCODE,mappostalCode
+az.csv,property-tax-report.csv,POSTCODE,PROPERTY_POSTAL_CODE
+az.csv,saudi-hourly-weather-data.csv,LON,longitude
+az.csv,saudi-hourly-weather-data.csv,LAT,latitude
+business-licences.csv,glassdoor.csv,BusinessName,headeremployerName
+business-licences.csv,property-tax-report.csv,PostalCode,PROPERTY_POSTAL_CODE
+business-licences.csv,us_perm_visas.csv,BusinessName,employer_name
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2005_to_2007.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2008_to_2011.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2001_to_2004.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2001_to_2004.csv,homicide_reports.csv,Year,Year
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,ID,ID
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,IUCR,IUCR
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Primary Type,Primary Type
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Description,Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Location Description,Location Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,Block,Block
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2008_to_2011.csv,FBI Code,FBI Code
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2005_to_2007.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2005_to_2007.csv,homicide_reports.csv,Year,Year
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,ID,ID
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,IUCR,IUCR
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Primary Type,Primary Type
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Description,Description
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Location Description,Location Description
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,Block,Block
+Chicago_Crimes_2008_to_2011.csv,Chicago_Crimes_2012_to_2017.csv,FBI Code,FBI Code
+Chicago_Crimes_2008_to_2011.csv,homicide_reports.csv,Year,Year
+comments.csv,comments_positive.csv,comment_id,id
+comments.csv,comments_positive.csv,post_id,link_id
+comments.csv,comments_positive.csv,content,text
+comments.csv,comments_positive.csv,author,author
+comments.csv,comments_positive.csv,vote,score
+comments.csv,covid-19_tw.csv,author,User - Name
+comments.csv,jigsaw-unintended-bias-train_it_clean.csv,comment_id,id
+comments.csv,question_tags.csv,post_id,Id
+comments.csv,reviews_detailed.csv,date,date
+comments.csv,reviews_summary.csv,content,comments
+comments.csv,train-balanced-sarcasm.csv,author,author
+comments_positive.csv,jigsaw-unintended-bias-train_it_clean.csv,id,id
+comments_positive.csv,train-balanced-sarcasm.csv,author,author
+Consumer_Complaints.csv,previous_application.csv,Product,NAME_CONTRACT_TYPE
+covid-19_tw.csv,examiner-date-text.csv,Time,publish_date
+covid-19_tw.csv,news-week-18aug24.csv,Time,publish_time
+covid-19_tw.csv,train-balanced-sarcasm.csv,User - Name,author
+econbiz.csv,examiner-date-text.csv,title,headline_text
+eo2.csv,eo3.csv,EIN,EIN
+eo2.csv,eo3.csv,NAME,NAME
+eo2.csv,eo3.csv,CITY,CITY
+eo2.csv,eo3.csv,ZIP,ZIP
+eo2.csv,eo3.csv,STREET,STREET
+eo2.csv,eo3.csv,STATE,STATE
+eo2.csv,glassdoor.csv,NAME,headeremployerName
+examiner-date-text.csv,examiner-date-tokens.csv,publish_date,publish_date
+examiner-date-text.csv,news-week-17aug24.csv,headline_text,headline_text
+examiner-date-text.csv,news-week-18aug24.csv,headline_text,headline_text
+examiner-date-tokens.csv,news-week-17aug24.csv,publish_date,publish_time
+examiner-date-tokens.csv,news-week-17aug24.csv,headline_tokens,headline_text
+examiner-date-tokens.csv,news-week-18aug24.csv,publish_date,publish_time
+glassdoor.csv,glassdoor_photos.csv,headeremployerId,id
+glassdoor.csv,us_perm_visas.csv,headeremployerName,employer_name
+hail-2015.csv,saudi-hourly-weather-data.csv,LON,longitude
+hail-2015.csv,saudi-hourly-weather-data.csv,LAT,latitude
+jigsaw-unintended-bias-train_it_clean.csv,train-balanced-sarcasm.csv,comment_text,comment
+news-week-17aug24.csv,news-week-18aug24.csv,publish_time,publish_time
+news-week-17aug24.csv,news-week-18aug24.csv,feed_code,feed_code
+news-week-17aug24.csv,news-week-18aug24.csv,source_url,source_url
+news-week-17aug24.csv,news-week-18aug24.csv,headline_text,headline_text
+otp.csv,trainView.csv,train_id,train_id
+otp.csv,trainView.csv,next_station,next_station
+otp.csv,trainView.csv,origin,source
+otp.csv,trainView.csv,date,date
+otp.csv,trainView.csv,timeStamp,timeStamp1
+plays.csv,wowah_data.csv,player,char
+reviews_detailed.csv,reviews_summary.csv,listing_id,listing_id
+reviews_detailed.csv,reviews_summary.csv,date,date
+reviews_detailed.csv,reviews_summary.csv,id,id
+reviews_detailed.csv,reviews_summary.csv,reviewer_id,reviewer_id
+reviews_detailed.csv,reviews_summary.csv,reviewer_name,reviewer_name

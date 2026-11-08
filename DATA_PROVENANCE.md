@@ -71,7 +71,7 @@ original contents.
   GitHub repository.
 - Date obtained:
   - OpenData: 22/11/2025.
-  - WewbTable: 29/05/2025.
+  - WebTable: 29/05/2025.
 - Source license: No explicit license identified in the LakeBench repository
   revision inspected.
 - DesJoin files:
