@@ -1,0 +1,184 @@
+ds_name,ds_name_2,left_column,right_column
+aac_intakes.csv,aac_intakes_outcomes.csv,animal_id,animal_id_intake
+aac_intakes.csv,aac_intakes_outcomes.csv,animal_id,animal_id_outcome
+aac_intakes.csv,aac_intakes_outcomes.csv,found_location,found_location
+aac_intakes.csv,aac_intakes_outcomes.csv,datetime,intake_datetime
+aac_intakes.csv,aac_intakes_outcomes.csv,datetime2,intake_datetime
+aac_intakes.csv,aac_outcomes.csv,animal_id,animal_id
+aac_intakes.csv,aac_outcomes.csv,name,name
+aac_intakes.csv,animal-control-inventory-register.csv,animal_id,AnimalID
+aac_intakes.csv,animal-control-inventory-register.csv,name,Name
+aac_intakes.csv,animal-control-inventory-register.csv,datetime,DateImpounded
+aac_intakes.csv,animal-control-inventory-register.csv,datetime2,DateImpounded
+aac_intakes_outcomes.csv,aac_outcomes.csv,animal_id_intake,animal_id
+aac_intakes_outcomes.csv,aac_outcomes.csv,animal_id_outcome,animal_id
+aac_intakes_outcomes.csv,aac_outcomes.csv,animal_type,animal_type
+aac_intakes_outcomes.csv,aac_outcomes.csv,date_of_birth,date_of_birth
+aac_intakes_outcomes.csv,animal-control-inventory-register.csv,animal_id_intake,AnimalID
+aac_intakes_outcomes.csv,animal-control-inventory-register.csv,animal_id_outcome,AnimalID
+aac_intakes_outcomes.csv,animal-control-inventory-register.csv,date_of_birth,DispositionDate
+aac_intakes_outcomes.csv,animal-control-inventory-register.csv,intake_datetime,DateImpounded
+aac_intakes_outcomes.csv,animal-control-inventory-register.csv,outcome_datetime,DispositionDate
+aac_outcomes.csv,animal-control-inventory-register.csv,animal_id,AnimalID
+aac_outcomes.csv,animal-control-inventory-register.csv,name,Name
+abandoned-water-mains.csv,property-addresses.csv,Geom,Geom
+Red_Light_Camera_Violations.csv,abandoned-water-mains.csv,LATITUDE,Geom
+Red_Light_Camera_Violations.csv,abandoned-water-mains.csv,LONGITUDE,Geom
+Red_Light_Camera_Violations.csv,abandoned-water-mains.csv,X COORDINATE,Geom
+Red_Light_Camera_Violations.csv,abandoned-water-mains.csv,Y COORDINATE,Geom
+Red_Light_Camera_Violations.csv,abandoned-water-mains.csv,VIOLATION DATE,INSTALLATION_DATE
+abandoned-water-mains.csv,sewer-catch-basins.csv,Geom,Geom
+abandoned-water-mains.csv,sewer-manholes.csv,Geom,Geom
+abandoned-water-mains.csv,water-control-valves.csv,Geom,Geom
+abandoned-water-mains.csv,water-distribution-mains.csv,DIAMETER_MM,DIAMETER_MM
+abandoned-water-mains.csv,water-distribution-mains.csv,INSTALLATION_DATE,INSTALLATION_DATE
+abandoned-water-mains.csv,water-distribution-mains.csv,Geom,Geom
+abandoned-water-mains.csv,water-hydrants.csv,Geom,Geom
+AboutIsis.csv,IsisFanboy.csv,name,name
+AboutIsis.csv,IsisFanboy.csv,username,username
+AboutIsis.csv,IsisFanboy.csv,tweetid,tweetid
+AboutIsis.csv,IsisFanboy.csv,time,time
+agri-environmental-indicators-emissions-by-sector.csv,emissions_agriculture_energy_e_all_data_norm.csv,Year,Year
+agri-environmental-indicators-emissions-by-sector.csv,emissions_agriculture_energy_e_all_data_norm.csv,Area,Country
+agri-environmental-indicators-emissions-by-sector.csv,emissions_agriculture_energy_e_all_data_norm.csv,Value,Value
+agri-environmental-indicators-emissions-by-sector.csv,global-greenhouse-gas-emissions.csv,Year,Year
+agri-environmental-indicators-emissions-by-sector.csv,global-greenhouse-gas-emissions.csv,Area,Country
+agri-environmental-indicators-emissions-by-sector.csv,global-greenhouse-gas-emissions0.csv,Year,Year
+agri-environmental-indicators-emissions-by-sector.csv,global-greenhouse-gas-emissions0.csv,Area,Country
+agri-environmental-indicators-emissions-by-sector.csv,global-innovation-index-2015.csv,Area,COUNTRY_NAME
+agri-environmental-indicators-emissions-by-sector.csv,global-innovation-index-2015.csv,Year,DATE
+agri-environmental-indicators-emissions-by-sector.csv,oxford-covid-19-government-response-tracker.csv,Area,Country
+agri-environmental-indicators-emissions-by-sector.csv,population-estimates-and-projections-1960-2050.csv,Year,Year
+agri-environmental-indicators-emissions-by-sector.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+agri-environmental-indicators-emissions-by-sector.csv,total-and-urban-population-annual-1950-2050.csv,Area,LOCATION_NAME
+agri-environmental-indicators-emissions-by-sector.csv,world-power-plants-list.csv,Area,PLANT_COUNTRY
+chat.csv,players.csv,unit,id
+district-wise-rainfall-data-for-india-2014.csv,india-census-data-2011-census-primary-abstract.csv,DISTRICTS_REGIONID,LOCATION_REGIONID
+district-wise-rainfall-data-for-india-2014.csv,india-census-data-2011-census-primary-abstract.csv,DISTRICTS_NAME,LOCATION_NAME
+emissions_agriculture_energy_e_all_data_norm.csv,global-greenhouse-gas-emissions.csv,Year,Year
+emissions_agriculture_energy_e_all_data_norm.csv,global-greenhouse-gas-emissions.csv,Country,Country
+emissions_agriculture_energy_e_all_data_norm.csv,global-greenhouse-gas-emissions0.csv,Year,Year
+emissions_agriculture_energy_e_all_data_norm.csv,global-greenhouse-gas-emissions0.csv,Country,Country
+emissions_agriculture_energy_e_all_data_norm.csv,oxford-covid-19-government-response-tracker.csv,Country,Country
+emissions_agriculture_energy_e_all_data_norm.csv,population-estimates-and-projections-1960-2050.csv,Year,Year
+emissions_agriculture_energy_e_all_data_norm.csv,population-estimates-and-projections-1960-2050.csv,Country,COUNTRY
+emissions_agriculture_energy_e_all_data_norm.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+emissions_agriculture_energy_e_all_data_norm.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Country,Country
+JEOPARDY_CSV.csv,episodes.csv,Air Date,episode_date
+episodes.csv,posts.csv,title,title
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,Year,Year
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,ISO_A3,ISO_A3
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,World Region,World Region
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,Country,Country
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,IPCC-Annex,IPCC-Annex
+global-greenhouse-gas-emissions.csv,global-greenhouse-gas-emissions0.csv,Value (Gg),Value (Gg)
+global-greenhouse-gas-emissions.csv,global-innovation-index-2015.csv,Country,COUNTRY_NAME
+global-greenhouse-gas-emissions.csv,global-innovation-index-2015.csv,Year,DATE
+global-greenhouse-gas-emissions.csv,oxford-covid-19-government-response-tracker.csv,Country,Country
+global-greenhouse-gas-emissions.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+global-greenhouse-gas-emissions.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Country,Country
+global-greenhouse-gas-emissions.csv,world-power-plants-list.csv,Country,PLANT_COUNTRY
+global-greenhouse-gas-emissions0.csv,global-innovation-index-2015.csv,Country,COUNTRY_NAME
+global-greenhouse-gas-emissions0.csv,global-innovation-index-2015.csv,Year,DATE
+global-greenhouse-gas-emissions0.csv,oxford-covid-19-government-response-tracker.csv,Country,Country
+global-greenhouse-gas-emissions0.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Country,Country
+global-greenhouse-gas-emissions0.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+global-greenhouse-gas-emissions0.csv,total-and-urban-population-annual-1950-2050.csv,Country,LOCATION_NAME
+global-greenhouse-gas-emissions0.csv,total-and-urban-population-annual-1950-2050.csv,Year,DATE
+global-greenhouse-gas-emissions0.csv,world-power-plants-list.csv,Country,PLANT_COUNTRY
+global-innovation-index-2015.csv,oxford-covid-19-government-response-tracker.csv,DATE,Date
+global-innovation-index-2015.csv,saudi-arabia-world-development-indicators-1960-2014.csv,DATE,Year
+global-innovation-index-2015.csv,saudi-arabia-world-development-indicators-1960-2014.csv,VALUE,Value
+global-innovation-index-2015.csv,total-and-urban-population-annual-1950-2050.csv,COUNTRY_ID,LOCATION_ID
+global-innovation-index-2015.csv,total-and-urban-population-annual-1950-2050.csv,COUNTRY_NAME,LOCATION_NAME
+global-innovation-index-2015.csv,total-and-urban-population-annual-1950-2050.csv,COUNTRY_REGIONID,LOCATION_REGIONID
+global-innovation-index-2015.csv,total-and-urban-population-annual-1950-2050.csv,DATE,DATE
+global-innovation-index-2015.csv,total-and-urban-population-annual-1950-2050.csv,FREQUENCY,FREQUENCY
+global-innovation-index-2015.csv,world-power-plants-list.csv,COUNTRY_NAME,PLANT_COUNTRY
+listings_detailed.csv,makemytrip_com-travel_sample.csv,latitude,latitude
+listings_detailed.csv,makemytrip_com-travel_sample.csv,longitude,longitude
+listings_detailed.csv,makemytrip_com-travel_sample.csv,review_scores_rating,mmt_review_rating
+listings_detailed.csv,makemytrip_com-travel_sample.csv,review_scores_location,mmt_location_rating
+listings_detailed.csv,makemytrip_com-travel_sample.csv,number_of_reviews,mmt_review_count
+listings_detailed.csv,makemytrip_com-travel_sample.csv,number_of_reviews_ltm,mmt_traveller_type_review_count
+listings_detailed.csv,makemytrip_com-travel_sample.csv,review_scores_accuracy,mmt_review_score
+listings_detailed.csv,property-addresses.csv,street,STD_STREET
+listings_detailed.csv,property-addresses.csv,latitude,PCOORD
+listings_detailed.csv,property-addresses.csv,longitude,PCOORD
+listings_detailed.csv,sewer-catch-basins.csv,latitude,Geom
+listings_detailed.csv,sewer-catch-basins.csv,longitude,Geom
+listings_summary.csv,makemytrip_com-travel_sample.csv,latitude,latitude
+listings_summary.csv,makemytrip_com-travel_sample.csv,longitude,longitude
+listings_summary.csv,makemytrip_com-travel_sample.csv,zipcode,area
+listings_summary.csv,makemytrip_com-travel_sample.csv,mmt_review_count,number_of_reviews
+listings_summary.csv,makemytrip_com-travel_sample.csv,mmt_review_rating,review_scores_rating
+listings_summary.csv,makemytrip_com-travel_sample.csv,mmt_location_rating,review_scores_location
+listings_summary.csv,property-addresses.csv,street,STD_STREET
+listings_summary.csv,property-addresses.csv,latitude,PCOORD
+listings_summary.csv,property-addresses.csv,longitude,PCOORD
+makemytrip_com-travel_sample.csv,property-addresses.csv,latitude,PCOORD
+makemytrip_com-travel_sample.csv,property-addresses.csv,longitude,PCOORD
+makemytrip_com-travel_sample.csv,property-addresses.csv,area,Geo Local Area
+medium_data.csv,posts.csv,id,post_id
+medium_data.csv,posts.csv,title,title
+medium_data.csv,posts.csv,url,url
+medium_data.csv,posts.csv,date,date
+oxford-covid-19-government-response-tracker.csv,population-estimates-and-projections-1960-2050.csv,Country,COUNTRY
+oxford-covid-19-government-response-tracker.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Country,Country
+oxford-covid-19-government-response-tracker.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Value,Value
+oxford-covid-19-government-response-tracker.csv,total-and-urban-population-annual-1950-2050.csv,Country,LOCATION_NAME
+oxford-covid-19-government-response-tracker.csv,total-and-urban-population-annual-1950-2050.csv,Country,LOCATION_ID
+oxford-covid-19-government-response-tracker.csv,world-power-plants-list.csv,Country,PLANT_COUNTRY
+players.csv,posts.csv,id,bloggerid
+population-estimates-and-projections-1960-2050.csv,saudi-arabia-population-by-administrative-region-nationality-and-sex.csv,Year,Year
+population-estimates-and-projections-1960-2050.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+population-estimates-and-projections-1960-2050.csv,saudi-arabia-world-development-indicators-1960-2014.csv,COUNTRY,Country
+population-estimates-and-projections-1960-2050.csv,total-and-urban-population-annual-1950-2050.csv,COUNTRY,LOCATION_NAME
+population-estimates-and-projections-1960-2050.csv,total-and-urban-population-annual-1950-2050.csv,COUNTRY,LOCATION_ID
+population-estimates-and-projections-1960-2050.csv,total-and-urban-population-annual-1950-2050.csv,Year,DATE
+population-estimates-and-projections-1960-2050.csv,world-power-plants-list.csv,COUNTRY,PLANT_COUNTRY
+Red_Light_Camera_Violations.csv,property-addresses.csv,ADDRESS,STD_STREET
+Red_Light_Camera_Violations.csv,property-addresses.csv,ADDRESS,CIVIC_NUMBER
+Red_Light_Camera_Violations.csv,property-addresses.csv,LATITUDE,Geom
+Red_Light_Camera_Violations.csv,property-addresses.csv,LONGITUDE,Geom
+Red_Light_Camera_Violations.csv,property-addresses.csv,X COORDINATE,PCOORD
+Red_Light_Camera_Violations.csv,property-addresses.csv,Y COORDINATE,PCOORD
+Red_Light_Camera_Violations.csv,property-addresses.csv,CAMERA ID,P_PARCEL_ID
+Red_Light_Camera_Violations.csv,property-addresses.csv,CAMERA ID,SITE_ID
+property-addresses.csv,sewer-catch-basins.csv,Geo Local Area,Geo Local Area
+property-addresses.csv,sewer-catch-basins.csv,Geom,Geom
+property-addresses.csv,sewer-manholes.csv,Geom,Geom
+property-addresses.csv,sewer-manholes.csv,Geo Local Area,Geo Local Area
+property-addresses.csv,water-control-valves.csv,Geo Local Area,Geo Local Area
+property-addresses.csv,water-control-valves.csv,Geom,Geom
+property-addresses.csv,water-distribution-mains.csv,Geom,Geom
+property-addresses.csv,water-hydrants.csv,CIVIC_NUMBER,STREET_NUMBER
+property-addresses.csv,water-hydrants.csv,STD_STREET,STREET
+property-addresses.csv,water-hydrants.csv,Geo Local Area,Geo Local Area
+property-addresses.csv,water-hydrants.csv,Geom,Geom
+saudi-arabia-population-by-administrative-region-nationality-and-sex.csv,saudi-arabia-world-development-indicators-1960-2014.csv,Year,Year
+saudi-arabia-world-development-indicators-1960-2014.csv,total-and-urban-population-annual-1950-2050.csv,Country,LOCATION_NAME
+saudi-arabia-world-development-indicators-1960-2014.csv,total-and-urban-population-annual-1950-2050.csv,Year,DATE
+saudi-arabia-world-development-indicators-1960-2014.csv,world-power-plants-list.csv,Country,PLANT_COUNTRY
+sewer-catch-basins.csv,sewer-manholes.csv,Geom,Geom
+sewer-catch-basins.csv,sewer-manholes.csv,Geo Local Area,Geo Local Area
+sewer-catch-basins.csv,water-control-valves.csv,Geom,Geom
+sewer-catch-basins.csv,water-control-valves.csv,Geo Local Area,Geo Local Area
+sewer-catch-basins.csv,water-distribution-mains.csv,Geom,Geom
+sewer-catch-basins.csv,water-hydrants.csv,Geom,Geom
+sewer-catch-basins.csv,water-hydrants.csv,Geo Local Area,Geo Local Area
+sewer-manholes.csv,water-control-valves.csv,Geom,Geom
+sewer-manholes.csv,water-control-valves.csv,Geo Local Area,Geo Local Area
+sewer-manholes.csv,water-distribution-mains.csv,Geom,Geom
+sewer-manholes.csv,water-hydrants.csv,Geom,Geom
+sewer-manholes.csv,water-hydrants.csv,Geo Local Area,Geo Local Area
+total-and-urban-population-annual-1950-2050.csv,world-power-plants-list.csv,LOCATION_NAME,PLANT_COUNTRY
+water-control-valves.csv,water-distribution-mains.csv,Geom,Geom
+water-control-valves.csv,water-hydrants.csv,OPEN_IND,STATUS
+water-control-valves.csv,water-hydrants.csv,X_OFFSET_FROM_PROP_LINE_M,DISTANCEFROMCORNER
+water-control-valves.csv,water-hydrants.csv,X_OFFSET_DIRECTION,DIR
+water-control-valves.csv,water-hydrants.csv,Y_OFFSET_FROM_PROP_LINE_M,FEEDERLEN
+water-control-valves.csv,water-hydrants.csv,Y_OFFSET_DIRECTION,LINE
+water-control-valves.csv,water-hydrants.csv,Geom,Geom
+water-control-valves.csv,water-hydrants.csv,Geo Local Area,Geo Local Area
+water-distribution-mains.csv,water-hydrants.csv,Geom,Geom
